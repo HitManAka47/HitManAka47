@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HitManAka47
+- 👋 Hi, I’m @HitMan
 - 👀 I’m interested in ...; information Security
 - 🌱 I’m currently learning ; Cybeer Security
 - 💞️ I’m looking to collaborate on ...?
